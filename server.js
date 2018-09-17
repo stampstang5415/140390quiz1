@@ -69,6 +69,3 @@ app.get('/users/:id', function(req, res) {
 console.log('App is running at http://localhost:8080');
 app.listen(8080);
 
-
-//res.redirect(url)
-//
