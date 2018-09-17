@@ -13,7 +13,8 @@
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "mysql": "^2.16.0",
-    "pg-promise": "^8.4.6"
+    "pg-promise": "^8.4.6",
+    "php": "0.0.1"
   },
   "devDependencies": {},
   "repository": {
