@@ -1,10 +1,10 @@
 {
-  "name": "HELLOEXPRESS",
+  "name": "140390quiz1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +14,15 @@
     "express": "^4.16.3",
     "mysql": "^2.16.0",
     "pg-promise": "^8.4.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stampstang5415/140390quiz1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stampstang5415/140390quiz1/issues"
+  },
+  "homepage": "https://github.com/stampstang5415/140390quiz1#readme",
+  "description": ""
 }
